@@ -14,11 +14,11 @@
 
 - 🎓 I'll soon be graduating from **Singapore Management University**
 
-- 💬 Ask me about **Bash scripting, Flask, Spring Boot**
+- 💬 Ask me about: **Bash scripting, Flask, Spring Boot**
 
-- 📫 How to reach me **kendrickteo.2021@scis.smu.edu.sg**
+- 📫 Reach me at: **kendrickteo.2021@scis.smu.edu.sg**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kendricktty/](https://www.linkedin.com/in/kendricktty/)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/kendricktty/](https://www.linkedin.com/in/kendricktty/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
