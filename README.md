@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kendrick</h1>
-<h3 align="center">Final-year Computer Science student | Aspiring machine learning engineer | Codes in Python, Java and C | UiPath Developer</h3>
+<h3 align="center">Final-year Computer Science student | Aspiring machine learning engineer | Codes in Python, Java and C</h3>
 
 <!-- <p align="center"><img src=https://media.licdn.com/dms/image/v2/C4E03AQG2KSzkyGlyDw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1655386268790?e=1729728000&v=beta&t=3_HxwMwFwQZa_sjkxZij-4uyO5dCDGIP9FReaKccNg8 alt="LinkedIn Profile" width="150"/> </p> -->
 
