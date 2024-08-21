@@ -14,7 +14,7 @@
 
 - 🎓 I'll soon be graduating from [**Singapore Management University**](https://computing.smu.edu.sg/)
 
-- 💬 Ask me about: **Bash scripting, Flask, Spring Boot**
+- 💬 Ask me about: **Machine Learning, Bash scripting, Flask, Spring Boot**
 
 - 📫 Reach me at: **kendrickteo.2021@scis.smu.edu.sg**
 
